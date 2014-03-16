@@ -1,0 +1,5 @@
+apiKey: 'key goes here'
+groups:
+  - Administrator
+  - Moderator
+  - Registered

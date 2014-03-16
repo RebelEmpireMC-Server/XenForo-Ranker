@@ -1,0 +1,8 @@
+name: Xenforo Ranker
+main: us.axe2760.xenfororanker.XenforoRanker
+author: Axe2760
+version: 1.0
+prefix: XenRank
+commands:
+  xenrank:
+    usage: /xenrank <arguments>
